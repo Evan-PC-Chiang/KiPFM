@@ -1,8 +1,5 @@
 # **KiPFM**
 
-[![DOI](https://zenodo.org/badge/1073194793.svg)](https://doi.org/10.5281/zenodo.18663840)
-
-
 Matlab codes implementing a **Kinematic Plate-based Fault Model (KiPFM)** to reconcile geological (uplift/incision) and geodetic (GPS, leveling) rates, estimating **fault slip rates** and **locking distributions** within a two-layer lithosphere framework.
 
 ## Overview
